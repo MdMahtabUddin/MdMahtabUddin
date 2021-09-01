@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
-- 📫 How to reach me <a href = "https://www.gmail.com/mahtab.sentu"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+- 📫 How to reach me **mahtab.sentu@gmail.com**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
