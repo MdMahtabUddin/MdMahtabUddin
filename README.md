@@ -82,5 +82,6 @@
 <a href = "https://www.instagram.com/mahtab_sentu"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/mahtab.sentu"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
-</p>
 [linkedin]: https://www.linkedin.com/in/mahtabuddin/
+
+</p>
