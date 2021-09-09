@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/MdMahtabUddin/github-readme-activity-graph"><img alt="MahtabUddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/MdMahtabUddin/github-readme-activity-graph"><img alt="MahtabUddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MdMahtabUddin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,10 +78,16 @@
 
 [<img align="left" alt="Md Mahtab Uddin | LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<a href = "https://twitter.com/mahtabsentu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mahtab_sentu"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/mahtab.sentu"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+[<img align="left" alt="Md Mahtab Uddin | Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebok&logoColor=white" />][facebook]
+
+[<img align="left" alt="Md Mahtab Uddin | Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+<!-- <a href = "https://twitter.com/mahtabsentu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mahtab_sentu"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> -->
 
 [linkedin]: https://www.linkedin.com/in/mahtabuddin/
+[facebook]: https://www.facebook.com/mahtab.sentu
+[twitter]: https://twitter.com/mahtabsentu
 
 </p>
