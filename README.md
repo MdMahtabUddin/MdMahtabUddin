@@ -74,9 +74,13 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mahtabuddin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+
+[<img align="left" alt="Md Mahtab Uddin | LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
 <a href = "https://twitter.com/mahtabsentu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mahtab_sentu"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/mahtab.sentu"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 </p>
+[linkedin]: https://www.linkedin.com/in/mahtabuddin/
