@@ -15,6 +15,22 @@
 
 - 📫 How to reach me **mahtab.sentu@gmail.com**
 
+<!-- ## Connect with me: -->
+
+<p align="left">
+
+[<img align="left" alt="Md Mahtab Uddin | LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img align="left" alt="Md Mahtab Uddin | Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebok&logoColor=white" />][facebook]
+
+[<img align="left" alt="Md Mahtab Uddin | Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+[linkedin]: https://www.linkedin.com/in/mahtabuddin/
+[facebook]: https://www.facebook.com/mahtab.sentu
+[twitter]: https://twitter.com/mahtabsentu
+
+</p>
+
 <a href="https://github.com/MdMahtabUddin/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MdMahtabUddin">
 </a>
@@ -48,6 +64,8 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 <br>
+
+<br>
 <p align="center">
     <a href="https://github.com/MdMahtabUddin/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahtab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -69,25 +87,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-
-<p align="left">
-
-<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-
-[<img align="left" alt="Md Mahtab Uddin | LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[<img align="left" alt="Md Mahtab Uddin | Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebok&logoColor=white" />][facebook]
-
-[<img align="left" alt="Md Mahtab Uddin | Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-
-<!-- <a href = "https://twitter.com/mahtabsentu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mahtab_sentu"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> -->
-
-[linkedin]: https://www.linkedin.com/in/mahtabuddin/
-[facebook]: https://www.facebook.com/mahtab.sentu
-[twitter]: https://twitter.com/mahtabsentu
-
-</p>
