@@ -43,10 +43,11 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" style="max-width:100%;">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<!-- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="max-width:100%;"> -->
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="max-width:100%;">
 
 <img align="left" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="26px" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width:100%;">
 
@@ -58,14 +59,14 @@
 
 </p>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Html Badge](https://img.shields.io/badge/-Html-007acc?style=for-the-badge&labelColor=black&logo=html&logoColor=007acc)](#)
 [![Css Badge](https://img.shields.io/badge/-Css-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#)
 [![ReactBootstrap Badge](https://img.shields.io/badge/-ReactBootstrap-007acc?style=for-the-badge&labelColor=black&logo=reactbootstrap&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Expressjs Badge](https://img.shields.io/badge/-Expressjs-007acc?style=for-the-badge&labelColor=black&logo=express.js&logoColor=007acc)](#)
+[![Expressjs Badge](https://img.shields.io/badge/-Expressjs-007acc?style=for-the-badge&labelColor=black&logo=expressjs&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#)
+[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#) -->
 <br/>
 <br/>
 
