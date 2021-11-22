@@ -59,6 +59,8 @@
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Html Badge](https://img.shields.io/badge/-Html-007acc?style=for-the-badge&labelColor=black&logo=html&logoColor=007acc)](#)
+[![Css Badge](https://img.shields.io/badge/-Css-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#)
 [![ReactBootstrap Badge](https://img.shields.io/badge/-ReactBootstrap-007acc?style=for-the-badge&labelColor=black&logo=reactbootstrap&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Expressjs Badge](https://img.shields.io/badge/-Expressjs-007acc?style=for-the-badge&labelColor=black&logo=express.js&logoColor=007acc)](#)
