@@ -3,6 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahtab</h1>
 <!-- <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3> -->
 
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+technologies;Frontend+React+developer+"></a>
+</p>
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
@@ -25,7 +28,7 @@
 
 [<img align="left" alt="Md Mahtab Uddin | Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-[linkedin]: https://www.linkedin.com/in/mahtabuddin/
+[linkedin]: https://www.linkedin.com/in/md-mahtab-uddin/
 [facebook]: https://www.facebook.com/mahtab.sentu
 [twitter]: https://twitter.com/mahtabsentu
 
