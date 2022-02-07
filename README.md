@@ -5,7 +5,7 @@
 </h3>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+technologies;Frontend+React+developer+"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+;Always+exploring+new+technologies;Frontend+React+developer+"></a>
 </p>
 ## 🙋‍♂️ About Me
 
