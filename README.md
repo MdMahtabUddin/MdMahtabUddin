@@ -1,7 +1,8 @@
 <a href="#"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahtab</h1>
-<!-- <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3> -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Mahtab Uddin</h1>
+<h3 align="center">A Passionate Web Developer from Bangladesh.
+</h3>
 
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+technologies;Frontend+React+developer+"></a>
