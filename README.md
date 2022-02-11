@@ -64,20 +64,23 @@
 <br/>
 
 <p align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&" alt="MdMahtabUddin" /></p>
+   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMahtabUddin&show_icons=true&locale=en" alt="MdMahtabUddin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&" alt="MdMahtabUddin" /></p>
+
+<a href="https://github.com/MdMahtabUddin/github-readme-stats"><img alt="Mahtab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMahtabUddin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </p>
 
 <br/>
 <br/>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/MdMahtabUddin/github-readme-stats"><img alt="Mahtab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MdMahtabUddin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MdMahtabUddin/github-readme-stats"><img alt="Mahtab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMahtabUddin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+
+  <br/> -->
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <br/>
