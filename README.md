@@ -48,6 +48,7 @@
 <img align="left" alt="Typescript" title="Typescript" height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img align="left" alt="NodeJS" title="NodeJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="NextJS" title="NextJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/Nextjs.png" />
 <img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" />
