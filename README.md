@@ -73,8 +73,3 @@
 </p>
 <br/>
 <br/>
-
-<a href="https://github.com/MdMahtabUddin/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MdMahtabUddin">
-</a>
-<a href="https://github.com/MdMahtabUddin?tab=followers"><img src="https://img.shields.io/github/followers/MdMahtabUddin?label=Followers&style=social" alt="GitHub Badge"></a>
