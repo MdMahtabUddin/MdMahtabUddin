@@ -60,21 +60,12 @@
 <img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Html Badge](https://img.shields.io/badge/-Html-007acc?style=for-the-badge&labelColor=black&logo=html&logoColor=007acc)](#)
-[![Css Badge](https://img.shields.io/badge/-Css-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#)
-[![ReactBootstrap Badge](https://img.shields.io/badge/-ReactBootstrap-007acc?style=for-the-badge&labelColor=black&logo=reactbootstrap&logoColor=007acc)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Expressjs Badge](https://img.shields.io/badge/-Expressjs-007acc?style=for-the-badge&labelColor=black&logo=expressjs&logoColor=007acc)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Mongodb Badge](https://img.shields.io/badge/-Mongodb-e535ab?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=e535ab)](#) -->
 <br/>
 <br/>
 
 <p align="center">
-    <a href="https://github.com/MdMahtabUddin/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahtab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&" alt="MdMahtabUddin" /></p>
+
 </p>
 
 <br/>
