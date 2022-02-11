@@ -68,7 +68,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMahtabUddin&show_icons=true&locale=en" alt="MdMahtabUddin" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&" alt="MdMahtabUddin" /></p>
 
-<a href="https://github.com/MdMahtabUddin/github-readme-stats"><img alt="Mahtab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMahtabUddin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdMahtabUddin&show_icons=true&locale=en&layout=compact" alt="MdMahtabUddin" /></p>
 
 </p>
 <a href="https://github.com/MdMahtabUddin/github-profile-views-counter">
