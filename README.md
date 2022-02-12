@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Frameworks:
 
 <p align="left"> 
 <img align="left" alt="HTML" title="HTML" height="32" width="32" src="https://img.icons8.com/color/50/000000/html-5.png" />
