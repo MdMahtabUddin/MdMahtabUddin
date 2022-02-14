@@ -20,6 +20,10 @@
 
 - 📫 How to reach me **mahtab.sentu@gmail.com**
 
+[Check My Resume]()
+
+[Check Me on Website]()
+
 <!-- ## Connect with me: -->
 
 <p align="left">
