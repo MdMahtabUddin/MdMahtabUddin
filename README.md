@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mahtab.sentu@gmail.com**
 
-[Check My Resume]()
+[Check My Resume](https://drive.google.com/file/d/1ScT7vlhYSL72NTmYh0NJe_gdZ0aK1ZIS/view)
 
 [Check Me on Website]()
 
