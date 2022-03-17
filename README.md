@@ -72,10 +72,10 @@
 
 <p align="center">
    
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMahtabUddin&show_icons=true&locale=en" alt="MdMahtabUddin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdMahtabUddin&show_icons=true&locale=en" alt="MdMahtabUddin" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMahtabUddin&" alt="MdMahtabUddin" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdMahtabUddin&show_icons=true&locale=en&layout=compact" alt="MdMahtabUddin" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdMahtabUddin&show_icons=true&locale=en&layout=compact" alt="MdMahtabUddin" /></p>
 
 </p>
 <br/>
