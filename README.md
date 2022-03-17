@@ -63,7 +63,7 @@
 <img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
 
 <!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" />   -->
-<!-- <img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" /> -->
+<img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
 
 </p>
 
